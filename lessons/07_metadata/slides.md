@@ -81,7 +81,7 @@ Creating and capturing metadata falls within the “Describe” phase of the Dat
   *Photo by Michelle Chang. All Rights Reserved*
 ]
 
-???
+??? Marisa Walstrum
 
 Metadata is data about data. It describes the content, quality, condition, and other characteristics of a dataset.  
 
